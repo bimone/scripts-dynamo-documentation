@@ -3,6 +3,11 @@
 
 ---
 
+> This repo contains only the videos explaining how the scripts are working
+
+> Ce Repo contient uniquement les vidéos explicatives des scripts
+
+---
 
 __Tous les scripts sont développés pour être utilisé en français ou en anglais dans Revit/Dynamo__
 
